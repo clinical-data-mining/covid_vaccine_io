@@ -242,7 +242,6 @@ P-0070738,60,True,White,Non-Spanish; Non-Hispanic                         ,True,
 P-0053044,49,True,White,Other,False,Soft Tissue Sarcoma,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,28,5,5,True,False,False,4.0,0.0,1513.0,2020,False,False,False
 P-0043504,68,False,Black or African American,Other,False,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,58,0,0,True,False,False,3.0,2.0,201.0,2019,False,False,False
 P-0014260,66,False,White,Non-Spanish; Non-Hispanic                         ,False,Breast Cancer,Breast Invasive Lobular Carcinoma,112,0,0,False,False,False,3.0,1.0,3811.0,2019,False,False,False
-P-0043347,80,True,White,Non-Spanish; Non-Hispanic                         ,True,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,0,0,0,True,False,False,4.0,2.0,566.0,2020,False,False,False
 P-0082350,81,False,White,Non-Spanish; Non-Hispanic                         ,True,Bladder Cancer,Bladder Urothelial Carcinoma,1372,755,755,True,False,False,0.0,0.0,547.0,2020,False,False,False
 P-0020677,34,False,Asian-Far East/Indian Subcont,Non-Spanish; Non-Hispanic                         ,False,Renal Cell Carcinoma,Translocation-Associated Renal Cell Carcinoma,439,0,0,True,False,False,4.0,1.0,437.0,2018,False,False,False
 P-0082641,51,True,White,Non-Spanish; Non-Hispanic                         ,True,Hepatobiliary Cancer,Cholangiocarcinoma,113,0,0,True,False,True,3.0,2.0,90.0,2022,False,True,True
@@ -266,7 +265,6 @@ P-0042599,55,True,White,Non-Spanish; Non-Hispanic                         ,True,
 P-0039940,45,True,White,Non-Spanish; Non-Hispanic                         ,True,Cancer of Unknown Primary,Small Cell Carcinoma of Unknown Primary,1220,0,0,True,False,False,4.0,0.0,42.0,2019,False,True,False
 P-0020056,58,False,White,Non-Spanish; Non-Hispanic                         ,False,Cancer of Unknown Primary,"Poorly Differentiated Carcinoma, NOS",1380,0,0,True,False,False,2.0,1.0,529.0,2018,False,False,False
 P-0028039,65,False,White,Non-Spanish; Non-Hispanic                         ,False,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,1245,0,0,False,False,False,1.0,1.0,447.0,2018,False,False,False
-P-0058045,69,True,White,Non-Spanish; Non-Hispanic                         ,True,Bladder Cancer,Bladder Urothelial Carcinoma,924,924,924,False,False,False,1.0,1.0,175.0,2018,False,False,False
 P-0065153,62,False,White,Non-Spanish; Non-Hispanic                         ,True,Soft Tissue Sarcoma,Epithelioid Sarcoma,966,913,913,True,False,False,2.0,0.0,7101.0,2018,True,False,False
 P-0053694,54,False,White,Non-Spanish; Non-Hispanic                         ,True,Bladder Cancer,Upper Tract Urothelial Carcinoma,1820,53,53,False,False,False,4.0,0.0,708.0,2020,False,False,False
 P-0019217,62,True,White,Non-Spanish; Non-Hispanic                         ,True,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,366,0,0,True,False,False,3.0,1.0,374.0,2017,False,False,False
@@ -1212,7 +1210,6 @@ P-0064610,64,False,White,Non-Spanish; Non-Hispanic                         ,True
 P-0069940,32,True,White,Non-Spanish; Non-Hispanic                         ,False,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,1148,25,25,False,False,True,3.0,0.0,73.0,2021,False,False,True
 P-0033806,68,False,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,833,0,0,False,False,False,2.0,1.0,212.0,2018,False,True,False
 P-0054565,85,False,White,Non-Spanish; Non-Hispanic                         ,True,Endometrial Cancer,Endometrial Carcinoma,459,0,25,True,True,False,1.0,1.0,2525.0,2020,False,False,False
-P-0046801,80,True,White,Other,False,Melanoma,Cutaneous Melanoma,0,0,0,True,False,False,2.0,0.0,7671.0,2019,False,False,False
 P-0028633,74,True,White,Other,True,Esophagogastric Cancer,Stomach Adenocarcinoma,471,0,0,True,False,False,4.0,1.0,614.0,2018,False,False,False
 P-0072421,85,False,Asian-Far East/Indian Subcont,Non-Spanish; Non-Hispanic                         ,False,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,1134,0,0,False,True,False,4.0,1.0,45.0,2021,False,True,True
 P-0021572,58,False,White,Non-Spanish; Non-Hispanic                         ,True,Endometrial Cancer,Uterine Dedifferentiated Carcinoma,2400,0,0,False,False,False,3.0,0.0,-950.0,2018,False,False,False
@@ -2340,7 +2337,6 @@ P-0055166,87,True,White,Non-Spanish; Non-Hispanic                         ,False
 P-0033611,71,True,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,1708,0,0,False,False,False,1.0,1.0,1137.0,2018,False,False,False
 P-0057005,46,True,White,Non-Spanish; Non-Hispanic                         ,True,Esophagogastric Cancer,Esophagogastric Adenocarcinoma,1076,14,14,True,False,False,3.0,0.0,54.0,2020,False,True,False
 P-0066824,65,True,White,Non-Spanish; Non-Hispanic                         ,False,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,55,0,0,True,True,False,4.0,2.0,48.0,2021,False,True,True
-P-0047151,40,False,White,Non-Spanish; Non-Hispanic                         ,False,Colorectal Cancer,Colon Adenocarcinoma,0,0,0,True,False,False,4.0,3.0,178.0,2019,False,False,False
 P-0067214,63,False,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,212,0,0,True,False,True,2.0,1.0,163.0,2021,True,True,True
 P-0034172,55,True,White,Non-Spanish; Non-Hispanic                         ,True,Esophagogastric Cancer,Esophageal Adenocarcinoma,2471,315,315,False,False,False,4.0,0.0,38.0,2017,False,True,False
 P-0080041,74,False,White,Non-Spanish; Non-Hispanic                         ,True,Cancer of Unknown Primary,"Neuroendocrine Tumor, NOS",39,0,0,True,False,True,4.0,1.0,248.0,2022,False,False,True
@@ -2588,7 +2584,6 @@ P-0066032,50,True,White,Non-Spanish; Non-Hispanic                         ,False
 P-0046694,66,True,White,Other,True,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,1105,0,0,True,False,False,3.0,,97.0,2019,False,False,False
 P-0045032,82,False,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,473,170,170,True,False,False,4.0,,39.0,2019,False,False,False
 P-0026314,63,False,White,Non-Spanish; Non-Hispanic                         ,True,Melanoma,Cutaneous Melanoma,1048,0,0,True,False,False,1.0,0.0,750.0,2019,False,False,False
-P-0114960,63,False,Other,Non-Spanish; Non-Hispanic                         ,True,Endometrial Cancer,Endometrial Carcinoma,2646,2646,2646,False,False,False,3.0,,1628.0,2017,False,False,False
 P-0076609,70,True,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Non-Small Cell Lung Cancer,958,0,0,True,False,True,4.0,,38.0,2022,False,True,True
 P-0012008,58,True,Asian-Far East/Indian Subcont,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,669,0,0,True,False,False,4.0,0.0,691.0,2018,False,False,False
 P-0010487,62,True,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,710,0,0,True,False,False,2.0,0.0,1395.0,2019,False,False,False
@@ -2766,7 +2761,6 @@ P-0109395,69,False,White,Non-Spanish; Non-Hispanic                         ,True
 P-0071162,82,False,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,226,2,2,False,False,True,1.0,1.0,1448.0,2021,False,True,True
 P-0044305,56,False,Black or African American,Non-Spanish; Non-Hispanic                         ,False,Endometrial Cancer,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor,772,0,0,True,False,False,3.0,0.0,267.0,2020,False,False,False
 P-0099044,63,True,White,Non-Spanish; Non-Hispanic                         ,True,Melanoma,Cutaneous Melanoma,1126,687,687,False,True,False,0.0,1.0,3090.0,2021,False,False,True
-P-0047009,67,True,White,Non-Spanish; Non-Hispanic                         ,False,Melanoma,Uveal Melanoma,0,0,0,True,False,False,2.0,1.0,2025.0,2019,True,False,False
 P-0023357,55,False,White,Non-Spanish; Non-Hispanic                         ,False,Breast Cancer,Breast Invasive Lobular Carcinoma,57,0,0,True,False,True,2.0,1.0,1673.0,2022,False,False,True
 P-0007505,65,True,Asian-Far East/Indian Subcont,Non-Spanish; Non-Hispanic                         ,True,Hepatobiliary Cancer,Hepatocellular Carcinoma,393,0,0,True,False,False,3.0,1.0,601.0,2017,False,False,False
 P-0029625,51,True,Other,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,2484,0,0,False,False,False,4.0,1.0,53.0,2018,False,False,False
@@ -2930,7 +2924,6 @@ P-0027150,74,False,Black or African American,Non-Spanish; Non-Hispanic          
 P-0065427,67,False,White,Other,False,Breast Cancer,"Breast Invasive Cancer, NOS",311,0,0,True,True,False,0.0,0.0,1593.0,2022,True,False,True
 P-0079854,61,False,Asian-Far East/Indian Subcont,Non-Spanish; Non-Hispanic                         ,True,Cancer of Unknown Primary,"Squamous Cell Carcinoma, NOS",880,0,0,False,False,False,3.0,1.0,149.0,2022,False,False,True
 P-0057390,79,True,White,Non-Spanish; Non-Hispanic                         ,False,Cancer of Unknown Primary,Cancer of Unknown Primary,184,0,0,True,False,False,4.0,1.0,60.0,2020,False,True,False
-P-0066514,77,True,White,Non-Spanish; Non-Hispanic                         ,True,Bladder Cancer,Bladder Urothelial Carcinoma,1149,1149,1149,True,False,False,3.0,0.0,602.0,2018,False,False,False
 P-0054248,69,False,Asian-Far East/Indian Subcont,Non-Spanish; Non-Hispanic                         ,False,Endometrial Cancer,Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma,229,0,0,True,False,True,4.0,0.0,548.0,2021,False,False,True
 P-0049302,72,True,White,Non-Spanish; Non-Hispanic                         ,False,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,23,0,0,True,False,False,4.0,2.0,20.0,2019,False,True,False
 P-0049375,36,True,Asian-Far East/Indian Subcont,Non-Spanish; Non-Hispanic                         ,False,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,4,0,0,True,True,False,4.0,0.0,639.0,2021,False,False,True
@@ -3048,7 +3041,6 @@ P-0077789,25,False,Black or African American,Non-Spanish; Non-Hispanic          
 P-0087979,40,True,White,Non-Spanish; Non-Hispanic                         ,False,Esophagogastric Cancer,Esophageal Squamous Cell Carcinoma,211,13,13,True,False,True,4.0,2.0,20.0,2022,False,True,True
 P-0050021,55,True,Other,Other,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,242,0,0,True,False,False,4.0,1.0,71.0,2019,False,True,False
 P-0006765,55,False,White,Non-Spanish; Non-Hispanic                         ,True,Cancer of Unknown Primary,Cancer of Unknown Primary,66,0,0,True,False,False,4.0,1.0,563.0,2017,False,False,False
-P-0084476,78,False,Asian-Far East/Indian Subcont,Non-Spanish; Non-Hispanic                         ,False,Cancer of Unknown Primary,"Adenocarcinoma, NOS",0,0,0,True,False,False,,0.0,,2022,False,False,True
 P-0011216,51,False,White,Non-Spanish; Non-Hispanic                         ,False,Melanoma,Melanoma of Unknown Primary,209,0,0,True,False,False,4.0,2.0,576.0,2017,False,False,False
 P-0044026,68,True,White,Other,False,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,2080,91,91,False,False,False,2.0,1.0,75.0,2019,False,False,False
 P-0064854,83,True,Asian-Far East/Indian Subcont,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,1381,0,0,True,True,False,3.0,1.0,49.0,2021,False,False,True
@@ -3162,7 +3154,6 @@ P-0038580,65,True,White,Non-Spanish; Non-Hispanic                         ,True,
 P-0067613,44,True,White,Other,True,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,1092,97,97,False,True,False,3.0,0.0,70.0,2021,True,False,False
 P-0042869,72,True,White,Non-Spanish; Non-Hispanic                         ,True,Bladder Cancer,Bladder Urothelial Carcinoma,719,0,0,True,False,False,3.0,0.0,340.0,2019,False,False,False
 P-0108565,68,True,Other,Other,True,Hepatobiliary Cancer,Hepatocellular Carcinoma,1542,1381,1381,True,False,False,3.0,,388.0,2020,False,False,False
-P-0118446,23,False,White,Other,False,Melanoma,Melanoma,1587,1587,1587,False,False,False,2.0,,108.0,2020,False,False,False
 P-0024593,57,True,White,Non-Spanish; Non-Hispanic                         ,True,Renal Cell Carcinoma,Renal Cell Carcinoma,41,12,12,True,False,False,4.0,1.0,420.0,2017,False,False,False
 P-0061937,50,False,White,Non-Spanish; Non-Hispanic                         ,False,Melanoma,Melanoma,1418,0,63,False,True,False,3.0,0.0,52.0,2020,True,False,False
 P-0043530,65,False,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,2027,0,0,False,False,False,4.0,,-900.0,2019,False,False,False
@@ -3734,7 +3725,6 @@ P-0071127,85,True,White,Non-Spanish; Non-Hispanic                         ,False
 P-0044306,77,False,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,107,16,16,True,False,False,4.0,0.0,51.0,2019,False,True,False
 P-0031300,67,False,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,477,0,0,True,False,False,4.0,1.0,40.0,2018,False,False,False
 P-0046387,74,False,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,230,0,0,True,False,False,3.0,1.0,128.0,2019,False,False,False
-P-0023715,69,True,Black or African American,Non-Spanish; Non-Hispanic                         ,True,Hepatobiliary Cancer,Hepatocellular Carcinoma,0,0,0,True,False,False,2.0,1.0,317.0,2018,False,False,False
 P-0027716,69,True,White,Non-Spanish; Non-Hispanic                         ,False,Melanoma,Cutaneous Melanoma,606,0,0,True,False,False,1.0,0.0,1914.0,2018,False,False,False
 P-0063407,60,False,Asian-Far East/Indian Subcont,Non-Spanish; Non-Hispanic                         ,False,Colorectal Cancer,Colorectal Adenocarcinoma,91,0,0,True,False,True,4.0,1.0,670.0,2022,False,False,True
 P-0080334,66,True,Asian-Far East/Indian Subcont,Non-Spanish; Non-Hispanic                         ,False,Hepatobiliary Cancer,Hepatocellular Carcinoma,18,0,0,True,False,False,3.0,2.0,61.0,2022,False,False,True
@@ -3797,7 +3787,6 @@ P-0055974,55,False,White,Non-Spanish; Non-Hispanic                         ,True
 P-0049011,70,True,Asian-Far East/Indian Subcont,Other,True,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,1209,0,0,True,False,False,2.0,1.0,6972.0,2019,False,False,False
 P-0067487,78,False,Asian-Far East/Indian Subcont,Non-Spanish; Non-Hispanic                         ,False,Endometrial Cancer,Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma,524,0,0,True,True,False,1.0,1.0,2220.0,2021,False,False,True
 P-0020148,71,True,White,Non-Spanish; Non-Hispanic                         ,True,Esophagogastric Cancer,Stomach Adenocarcinoma,78,0,0,True,False,False,2.0,2.0,1355.0,2018,False,False,False
-P-0028200,68,False,Other,Other,False,Endometrial Cancer,Uterine Endometrioid Carcinoma,0,0,0,True,False,False,1.0,0.0,899.0,2018,False,False,False
 P-0040592,60,False,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,773,585,585,True,False,False,3.0,1.0,608.0,2017,False,False,False
 P-0014205,54,True,White,Non-Spanish; Non-Hispanic                         ,False,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,2878,0,0,False,False,False,3.0,,1474.0,2017,False,False,False
 P-0081775,58,False,Black or African American,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,889,0,0,False,True,False,4.0,,64.0,2022,False,True,True
@@ -4080,7 +4069,6 @@ P-0064486,56,True,Asian-Far East/Indian Subcont,Non-Spanish; Non-Hispanic       
 P-0030942,30,True,White,Non-Spanish; Non-Hispanic                         ,False,Cancer of Unknown Primary,"Poorly Differentiated Carcinoma, NOS",529,0,0,True,False,False,2.0,0.0,1389.0,2018,True,False,False
 P-0050903,45,False,White,Non-Spanish; Non-Hispanic                         ,True,Endometrial Cancer,Uterine Endometrioid Carcinoma,1244,148,148,True,False,False,3.0,0.0,683.0,2019,False,False,False
 P-0065611,59,False,White,Non-Spanish; Non-Hispanic                         ,False,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,36,0,0,True,True,False,4.0,1.0,27.0,2021,False,True,True
-P-0027343,93,True,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,32,32,32,True,False,False,4.0,2.0,45.0,2018,False,False,False
 P-0068030,68,True,White,Other,False,Esophagogastric Cancer,Stomach Adenocarcinoma,885,1,1,False,True,False,3.0,1.0,114.0,2021,False,True,True
 P-0046992,83,True,White,Non-Spanish; Non-Hispanic                         ,True,Colorectal Cancer,Colon Adenocarcinoma,284,0,0,True,False,False,2.0,1.0,929.0,2020,False,False,False
 P-0038551,56,True,White,Non-Spanish; Non-Hispanic                         ,False,Bladder Cancer,Bladder Urothelial Carcinoma,2119,55,55,False,False,False,2.0,1.0,17.0,2018,False,False,False
@@ -4568,7 +4556,6 @@ P-0043232,40,True,White,Other,False,Renal Cell Carcinoma,Renal Clear Cell Carcin
 P-0060066,83,True,White,Non-Spanish; Non-Hispanic                         ,False,Hepatobiliary Cancer,Extrahepatic Cholangiocarcinoma,16,0,0,True,False,False,3.0,2.0,754.0,2021,False,False,False
 P-0071984,63,True,White,Non-Spanish; Non-Hispanic                         ,True,Bladder Cancer,Bladder Urothelial Carcinoma,1117,0,0,False,True,False,1.0,1.0,147.0,2021,False,False,True
 P-0031254,92,True,White,Non-Spanish; Non-Hispanic                         ,True,Bladder Cancer,Bladder Urothelial Carcinoma,147,18,18,True,False,False,2.0,2.0,161.0,2018,False,False,False
-P-0049358,60,True,White,Non-Spanish; Non-Hispanic                         ,True,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,18,18,18,True,False,False,4.0,1.0,45.0,2019,True,False,False
 P-0038817,58,True,White,Non-Spanish; Non-Hispanic                         ,False,Melanoma,Cutaneous Melanoma,36,0,0,False,False,False,1.0,1.0,2917.0,2019,False,False,False
 P-0058503,65,False,White,Non-Spanish; Non-Hispanic                         ,True,Melanoma,Cutaneous Melanoma,844,0,0,True,False,False,2.0,0.0,202.0,2020,False,False,False
 P-0015181,62,False,White,Other,False,Non-Small Cell Lung Cancer,Adenoid Cystic Carcinoma of the Lung,52,0,0,True,False,False,3.0,1.0,4333.0,2017,True,False,False
@@ -4703,7 +4690,6 @@ P-0033302,56,False,Black or African American,Non-Spanish; Non-Hispanic          
 P-0060962,42,False,Black or African American,Non-Spanish; Non-Hispanic                         ,False,Cancer of Unknown Primary,Cancer of Unknown Primary,199,0,0,True,False,False,4.0,1.0,727.0,2022,False,True,True
 P-0083763,51,False,White,Non-Spanish; Non-Hispanic                         ,False,Breast Cancer,Breast Invasive Ductal Carcinoma,1204,347,347,False,True,False,2.0,0.0,323.0,2021,False,False,True
 P-0064880,58,True,Asian-Far East/Indian Subcont,Non-Spanish; Non-Hispanic                         ,True,Cancer of Unknown Primary,Cancer of Unknown Primary,1025,236,236,False,False,False,3.0,0.0,182.0,2020,False,False,False
-P-0083987,76,False,White,Non-Spanish; Non-Hispanic                         ,False,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,0,0,0,True,False,False,4.0,1.0,21.0,2022,False,False,True
 P-0083616,81,True,White,Non-Spanish; Non-Hispanic                         ,False,Non-Small Cell Lung Cancer,Non-Small Cell Lung Cancer,116,0,0,False,False,True,3.0,1.0,111.0,2022,False,False,True
 P-0059469,75,True,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,1455,0,5,False,True,False,2.0,1.0,155.0,2021,False,False,False
 P-0049735,73,False,White,Non-Spanish; Non-Hispanic                         ,True,Melanoma,Desmoplastic Melanoma,1584,958,958,True,False,False,4.0,1.0,5420.0,2017,False,False,False
@@ -5185,7 +5171,6 @@ P-0037534,55,True,White,Non-Spanish; Non-Hispanic                         ,True,
 P-0016007,85,False,White,Non-Spanish; Non-Hispanic                         ,False,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,33,0,0,True,False,False,1.0,1.0,743.0,2017,False,False,False
 P-0026361,64,False,White,Other,True,Melanoma,Cutaneous Melanoma,1232,1,1,True,False,False,4.0,0.0,-1114.0,2017,False,False,False
 P-0055478,83,True,Black or African American,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,1500,99,99,True,False,False,1.0,0.0,567.0,2020,False,False,False
-P-0072516,75,True,White,Non-Spanish; Non-Hispanic                         ,True,Melanoma,Melanoma,41,41,41,False,False,True,4.0,1.0,36.0,2021,False,False,True
 P-0079023,66,False,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Non-Small Cell Lung Cancer,53,0,0,True,False,False,4.0,1.0,44.0,2022,False,True,True
 P-0081819,72,True,White,Non-Spanish; Non-Hispanic                         ,False,Soft Tissue Sarcoma,Angiosarcoma,1088,218,218,False,False,True,3.0,0.0,283.0,2021,False,False,True
 P-0045634,61,True,White,Non-Spanish; Non-Hispanic                         ,True,Soft Tissue Sarcoma,"Sarcoma, NOS",237,164,164,True,False,False,2.0,0.0,2205.0,2019,False,False,False
@@ -5811,7 +5796,6 @@ P-0008168,79,True,White,Non-Spanish; Non-Hispanic                         ,True,
 P-0077627,74,False,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Non-Small Cell Lung Cancer,959,0,0,False,False,True,3.0,1.0,61.0,2022,False,False,True
 P-0056415,71,False,White,Non-Spanish; Non-Hispanic                         ,False,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,498,0,35,True,True,False,1.0,1.0,2624.0,2020,False,True,False
 P-0057456,58,True,White,Other,False,Esophagogastric Cancer,Esophagogastric Adenocarcinoma,129,0,0,True,False,False,3.0,0.0,65.0,2020,False,False,False
-P-0087479,78,True,Other,Other,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,0,0,0,True,False,False,4.0,1.0,22.0,2022,False,False,True
 P-0070442,62,False,White,Non-Spanish; Non-Hispanic                         ,False,Endometrial Cancer,Uterine Endometrioid Carcinoma,1211,0,0,False,False,True,3.0,0.0,84.0,2021,False,False,True
 P-0074547,65,True,White,Non-Spanish; Non-Hispanic                         ,True,Melanoma,Melanoma,215,0,0,True,False,True,2.0,0.0,289.0,2022,True,False,True
 P-0062037,65,True,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,109,0,23,True,True,False,3.0,1.0,113.0,2021,False,False,False
@@ -5966,7 +5950,6 @@ P-0052384,67,False,White,Non-Spanish; Non-Hispanic                         ,True
 P-0039447,59,False,White,Non-Spanish; Non-Hispanic                         ,False,Melanoma,Cutaneous Melanoma,230,12,12,False,False,False,3.0,0.0,1309.0,2019,False,False,False
 P-0023765,75,True,White,Non-Spanish; Non-Hispanic                         ,True,Melanoma,Cutaneous Melanoma,372,0,0,True,False,False,1.0,0.0,1051.0,2018,False,False,False
 P-0052213,36,True,Asian-Far East/Indian Subcont,Non-Spanish; Non-Hispanic                         ,False,Soft Tissue Sarcoma,Rhabdomyosarcoma,122,0,0,True,False,True,1.0,2.0,1011.0,2022,False,False,True
-P-0040184,66,True,White,Non-Spanish; Non-Hispanic                         ,True,Bladder Cancer,Bladder Urothelial Carcinoma,0,0,0,True,False,False,0.0,1.0,1024.0,2019,False,True,False
 P-0046712,79,False,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,136,0,0,True,False,True,4.0,2.0,1039.0,2022,False,False,True
 P-0077797,71,False,White,Non-Spanish; Non-Hispanic                         ,False,Breast Cancer,Breast Mixed Ductal and Lobular Carcinoma,995,25,25,False,True,False,3.0,0.0,24.0,2022,False,True,True
 P-0079570,60,True,Asian-Far East/Indian Subcont,Non-Spanish; Non-Hispanic                         ,True,Hepatobiliary Cancer,Intrahepatic Cholangiocarcinoma,481,0,0,True,False,True,4.0,0.0,191.0,2022,False,True,True
@@ -5995,7 +5978,6 @@ P-0083732,73,True,White,Non-Spanish; Non-Hispanic                         ,True,
 P-0066384,69,True,White,Non-Spanish; Non-Hispanic                         ,True,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,1176,35,35,False,True,False,3.0,0.0,50.0,2021,True,False,True
 P-0025917,62,False,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,135,0,0,True,False,False,4.0,2.0,171.0,2018,False,False,False
 P-0029152,48,False,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,723,0,0,True,False,False,3.0,0.0,70.0,2018,True,False,False
-P-0074989,72,False,Other,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,0,0,0,True,False,False,4.0,,409.0,2022,True,False,True
 P-0030811,71,True,Other,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,1018,0,0,True,False,False,1.0,0.0,390.0,2018,False,True,False
 P-0001947,68,True,White,Non-Spanish; Non-Hispanic                         ,True,Soft Tissue Sarcoma,Solitary Fibrous Tumor/Hemangiopericytoma,902,0,0,True,False,False,4.0,0.0,3530.0,2018,False,False,False
 P-0068552,81,True,White,Non-Spanish; Non-Hispanic                         ,True,Melanoma,Melanoma,499,34,34,True,False,True,1.0,2.0,2403.0,2021,False,False,True
@@ -6718,7 +6700,6 @@ P-0026874,79,False,White,Non-Spanish; Non-Hispanic                         ,Fals
 P-0076203,78,False,White,Non-Spanish; Non-Hispanic                         ,False,Breast Cancer,Breast Invasive Ductal Carcinoma,34,0,0,True,False,False,4.0,0.0,174.0,2022,False,False,True
 P-0016649,67,False,White,Non-Spanish; Non-Hispanic                         ,True,Bladder Cancer,Upper Tract Urothelial Carcinoma,425,0,0,False,True,False,1.0,0.0,2101.0,2021,False,False,True
 P-0080527,75,True,Asian-Far East/Indian Subcont,Non-Spanish; Non-Hispanic                         ,False,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,136,0,0,True,True,False,4.0,1.0,64.0,2022,False,True,True
-P-0027651,69,True,White,Non-Spanish; Non-Hispanic                         ,True,Renal Cell Carcinoma,Papillary Renal Cell Carcinoma,0,0,0,True,False,False,3.0,2.0,2702.0,2019,False,False,False
 P-0060297,54,False,Asian-Far East/Indian Subcont,Non-Spanish; Non-Hispanic                         ,False,Melanoma,Melanoma,1356,0,96,False,True,False,1.0,1.0,62.0,2020,False,False,False
 P-0066272,71,True,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,1207,0,0,False,False,True,2.0,0.0,138.0,2021,False,False,True
 P-0026835,58,True,White,Non-Spanish; Non-Hispanic                         ,False,Melanoma,Melanoma of Unknown Primary,1885,0,0,False,False,False,3.0,0.0,145.0,2018,False,False,False
@@ -6917,7 +6898,6 @@ P-0041511,61,False,White,Other,False,Renal Cell Carcinoma,Renal Clear Cell Carci
 P-0048788,40,True,White,Non-Spanish; Non-Hispanic                         ,False,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,1754,57,57,True,False,False,4.0,0.0,91.0,2019,True,False,False
 P-0021737,69,True,White,Non-Spanish; Non-Hispanic                         ,False,Melanoma,Melanoma of Unknown Primary,2746,30,30,False,False,False,4.0,1.0,12.0,2017,True,False,False
 P-0080519,68,False,White,Non-Spanish; Non-Hispanic                         ,False,Colorectal Cancer,Colon Adenocarcinoma,865,0,0,False,False,True,3.0,1.0,106.0,2022,False,False,True
-P-0036357,92,True,White,Non-Spanish; Non-Hispanic                         ,True,Bladder Cancer,Bladder Urothelial Carcinoma,112,112,112,True,False,False,0.0,1.0,903.0,2018,False,False,False
 P-0053223,87,True,White,Non-Spanish; Non-Hispanic                         ,False,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,293,1,1,True,False,False,3.0,1.0,440.0,2020,False,False,False
 P-0082349,18,False,Other,Non-Spanish; Non-Hispanic                         ,False,Melanoma,Cutaneous Melanoma,21,0,0,False,False,False,2.0,,1369.0,2022,True,False,True
 P-0017415,81,True,White,Non-Spanish; Non-Hispanic                         ,True,Hepatobiliary Cancer,Hepatocellular Carcinoma,101,0,0,True,False,False,1.0,1.0,1134.0,2017,False,False,False
@@ -7297,7 +7277,6 @@ P-0047052,67,False,White,Non-Spanish; Non-Hispanic                         ,Fals
 P-0036281,75,False,Other,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,204,0,0,True,False,False,3.0,0.0,171.0,2019,False,False,False
 P-0085775,64,False,White,Non-Spanish; Non-Hispanic                         ,False,Endometrial Cancer,Uterine Endometrioid Carcinoma,743,0,0,False,False,True,3.0,0.0,68.0,2022,False,False,True
 P-0047822,73,False,White,Non-Spanish; Non-Hispanic                         ,True,Colorectal Cancer,Colon Adenocarcinoma,336,0,0,True,False,False,0.0,2.0,704.0,2019,False,False,False
-P-0073425,27,False,White,Non-Spanish; Non-Hispanic                         ,False,Melanoma,Cutaneous Melanoma,121,121,121,False,False,False,3.0,,106.0,2021,False,False,True
 P-0029455,75,False,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,2224,0,0,False,False,False,1.0,1.0,450.0,2018,False,False,False
 P-0075090,71,True,Asian-Far East/Indian Subcont,Non-Spanish; Non-Hispanic                         ,True,Cancer of Unknown Primary,"Adenocarcinoma, NOS",265,0,0,True,False,True,4.0,1.0,77.0,2022,False,True,True
 P-0031462,62,True,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,116,0,0,True,False,False,3.0,1.0,770.0,2019,False,False,False
@@ -7864,7 +7843,6 @@ P-0033100,65,True,White,Non-Spanish; Non-Hispanic                         ,True,
 P-0033847,47,False,White,Non-Spanish; Non-Hispanic                         ,False,Melanoma,Cutaneous Melanoma,2052,0,0,False,False,False,2.0,0.0,125.0,2018,False,False,False
 P-0071425,62,False,White,Non-Spanish; Non-Hispanic                         ,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,1162,0,0,False,False,True,1.0,1.0,1660.0,2021,False,True,True
 P-0021651,76,True,White,Non-Spanish; Non-Hispanic                         ,True,Cancer of Unknown Primary,Small Cell Carcinoma of Unknown Primary,190,0,0,True,False,False,4.0,0.0,164.0,2017,True,False,False
-P-0090670,70,False,White,Non-Spanish; Non-Hispanic                         ,False,Endometrial Cancer,Endometrial Carcinoma,602,602,602,False,False,True,1.0,0.0,2959.0,2021,False,False,True
 P-0060177,66,True,White,Non-Spanish; Non-Hispanic                         ,True,Esophagogastric Cancer,Diffuse Type Stomach Adenocarcinoma,110,0,0,True,False,False,4.0,1.0,81.0,2020,False,True,False
 P-0044514,71,True,White,Non-Spanish; Non-Hispanic                         ,False,Bladder Cancer,Bladder Urothelial Carcinoma,53,0,0,True,False,False,1.0,0.0,723.0,2020,False,False,False
 P-0067090,64,True,Black or African American,Other,True,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,333,0,0,True,True,False,2.0,1.0,192.0,2021,True,True,True
